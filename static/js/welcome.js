@@ -7,7 +7,6 @@ const resizeBakgroundImg = () => {
   welcome.style.height = `${height}px`;
 };
 
-
 navbarToggle.ontransitionend = resizeBakgroundImg;
 navbarToggle.ontransitionstart = resizeBakgroundImg;
 window.onresize = resizeBakgroundImg;
