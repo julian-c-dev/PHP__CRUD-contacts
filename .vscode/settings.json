@@ -1,0 +1,13 @@
+{
+  "[php]": {
+    "editor.tabSize": 4
+  },
+
+  "[html]": {
+    "editor.tabSize": 4
+  },
+  "[javascript]": {
+    "editor.tabSize": 4
+  },
+  "files.insertFinalNewline": true
+}
